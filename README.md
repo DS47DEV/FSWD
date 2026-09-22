@@ -1,11 +1,9 @@
-# FSWD Digital V5
+# FSWD Digital V5 — Brand Identity Edition
 
-Site vitrine statique prêt pour Netlify. Cette version reprend les fichiers de V4 et ajoute NOVA HOME comme quatrième réalisation du portfolio.
+Reprise de la V4 avec logo F bleu original vectorisé, favicon, palette bleu nuit/cyan et police Montserrat. Les trois projets portfolio et le formulaire Netlify Forms sont conservés.
 
-## Déploiement
+## Déploiement GitHub / Netlify
+Téléverser les fichiers **et le dossier assets/** à la racine du dépôt `fswd-digital` (ne pas envoyer le ZIP lui-même). Aucun build requis ; dossier de publication : `.`.
 
-Envoyez les quatre fichiers à la racine du dépôt GitHub `fswd-digital`, puis laissez Netlify redéployer la branche principale. Ne téléversez pas le ZIP lui-même.
-
-## Vérifications avant lancement commercial
-
-Compléter les mentions légales et vérifier Netlify Forms depuis le site déployé. NOVA HOME et Maison Sora sont des projets conceptuels ; AI Suite reste un prototype.
+## Avant commercialisation
+Compléter les mentions légales avec les informations réelles et tester le formulaire sur le site publié. Les SVG sont une interprétation vectorielle originale de la direction artistique validée, pas une extraction pixel-par-pixel de la planche. La police Montserrat est chargée depuis Google Fonts ; une police système sert de secours.
