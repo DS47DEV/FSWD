@@ -16,3 +16,10 @@ Le formulaire ne fonctionne pas comme une boîte e-mail autonome en ouvrant simp
 - Coordonnées et informations d'entreprise une fois disponibles.
 - Portfolio avec projets réels et visuels autorisés.
 - CGV et devis adaptés avant la première prestation.
+
+
+## V2 — Portfolio
+- Navigation Portfolio et section Maison Sora (projet concept fictif).
+- Correction de W3 START en FSWD START.
+- Déployer tous les fichiers à la racine du dépôt GitHub `fswd-digital`, puis pousser sur `main` pour déclencher Netlify.
+- Le formulaire Netlify Forms doit être testé après déploiement.
