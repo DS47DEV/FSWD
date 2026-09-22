@@ -23,3 +23,7 @@ Le formulaire ne fonctionne pas comme une boîte e-mail autonome en ouvrant simp
 - Correction de W3 START en FSWD START.
 - Déployer tous les fichiers à la racine du dépôt GitHub `fswd-digital`, puis pousser sur `main` pour déclencher Netlify.
 - Le formulaire Netlify Forms doit être testé après déploiement.
+
+
+## V3 — Portfolio
+Ajout du projet « Les Trésors de Madagascar » dans la section Portfolio, avec un lien vers https://les-tresors-de-madagascar.netlify.app/. Maison Sora et les autres sections sont conservées.
