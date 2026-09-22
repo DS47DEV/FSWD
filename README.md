@@ -1,11 +1,11 @@
-# FSWD Digital V4
+# FSWD Digital V5
 
-Site vitrine statique FSWD Digital. Portfolio : Maison Sora, Les Trésors de Madagascar, FSWD AI Suite.
+Site vitrine statique prêt pour Netlify. Cette version reprend les fichiers de V4 et ajoute NOVA HOME comme quatrième réalisation du portfolio.
 
-## Déploiement GitHub / Netlify
+## Déploiement
 
-Déposer les fichiers à la racine du dépôt `fswd-digital` (pas le dossier parent). Aucun build : publish directory `.`. Netlify déploie les commits sur `main` si connecté au dépôt.
+Envoyez les quatre fichiers à la racine du dépôt GitHub `fswd-digital`, puis laissez Netlify redéployer la branche principale. Ne téléversez pas le ZIP lui-même.
 
-## À vérifier avant publication
+## Vérifications avant lancement commercial
 
-Compléter les mentions légales, tester Netlify Forms et les liens des trois projets. FSWD AI Suite est présenté comme un prototype : API IA à configurer et workflows simulés.
+Compléter les mentions légales et vérifier Netlify Forms depuis le site déployé. NOVA HOME et Maison Sora sont des projets conceptuels ; AI Suite reste un prototype.
